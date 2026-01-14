@@ -9,7 +9,8 @@ spatool relies on third-party software
 
 ## Installation
 ```
-git clone https://github.com/whbeifan/spatool.git
+#git clone https://github.com/whbeifan/spatool.git
+wget -c https://github.com/whbeifan/spatool/archive/refs/heads/main.zip
 chmod 755 spatool
 spatool create_config #配置文件
 spatool update_database #更新数据
